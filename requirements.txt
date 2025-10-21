@@ -1,0 +1,3 @@
+customtkinter
+bcrypt
+reportlab
